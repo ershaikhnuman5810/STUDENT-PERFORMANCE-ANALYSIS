@@ -1,12 +1,12 @@
 # Student Performance Analysis & Prediction
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes student performance data and predicts student scores using Python and Machine Learning.
 
 The project focuses on understanding how factors such as study hours, attendance, previous scores, assignment scores, and midterm scores affect student performance.
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze student performance data
 - Clean and prepare the dataset
@@ -15,7 +15,7 @@ The project focuses on understanding how factors such as study hours, attendance
 - Visualize patterns and relationships in the data
 - Build Machine Learning models to predict student performance
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -25,7 +25,7 @@ The project focuses on understanding how factors such as study hours, attendance
 - Scikit-learn
 - Jupyter Notebook
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains student-related information such as:
 
@@ -41,7 +41,7 @@ The dataset contains student-related information such as:
 - Extracurricular
 - Internet Access
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 1. Load the dataset
 2. Understand the data
@@ -55,7 +55,7 @@ The dataset contains student-related information such as:
 10. Evaluate model performance
 11. Predict student performance
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 The following models are used:
 
@@ -63,7 +63,7 @@ The following models are used:
 - Decision Tree Regressor
 - Random Forest Regressor
 
-## 📈 Key Analysis
+## Key Analysis
 
 The project analyzes relationships between:
 
@@ -73,7 +73,7 @@ The project analyzes relationships between:
 - Assignment Score and Final Performance
 - Midterm Score and Final Performance
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 STUDENT-PERFORMANCE-ANALYSIS/
